@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="EqualizerView">
+        <attr name="foregroundColor" format="integer" />
+        <attr name="animDuration" format="integer" />
+        <attr name="numberBars" format="integer" />
+    </declare-styleable>
+</resources>
